@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TsunamiShelter>
+  <head>
+    <totalCount>623</totalCount>
+    <numOfRows>100</numOfRows>
+    <pageNo>1</pageNo>
+    <type>XML</type>
+    <RESULT>
+      <resultCode>INFO-0</resultCode>
+      <resultMsg>정상</resultMsg>
+    </RESULT>
+  </head>
+  <row>
+    <id>704</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>덕산지구</remarks>
+    <shel_nm>노인요양원앞공터</shel_nm>
+    <address>강원도 삼척시 근덕면 덕산리 36</address>
+    <lon>129.246983</lon>
+    <lat>37.378565</lat>
+    <shel_av>100</shel_av>
+    <lenth>1150</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>54</height>
+  </row>
+  <row>
+    <id>705</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>덕산지구</remarks>
+    <shel_nm>솔바람민박앞공터</shel_nm>
+    <address>강원도 삼척시 근덕면 덕산리 291</address>
+    <lon>129.242343</lon>
+    <lat>37.381134</lat>
+    <shel_av>150</shel_av>
+    <lenth>800</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>19</height>
+  </row>
+  <row>
+    <id>706</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>궁촌지구</remarks>
+    <shel_nm>공양왕릉</shel_nm>
+    <address>강원도 삼척시 근덕면 궁촌리 178</address>
+    <lon>129.266356</lon>
+    <lat>37.326132</lat>
+    <shel_av>100</shel_av>
+    <lenth>536</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>55</height>
+  </row>
+  <row>
+    <id>698</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>정라지구</remarks>
+    <shel_nm>감로사앞공터</shel_nm>
+    <address>강원도 삼척시 정상동 3-1</address>
+    <lon>129.183813</lon>
+    <lat>37.440605</lat>
+    <shel_av>100</shel_av>
+    <lenth>368</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>38</height>
+  </row>
+  <row>
+    <id>699</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>오분지구</remarks>
+    <shel_nm>남초교뒷산</shel_nm>
+    <address>강원도 삼척시 오분동 164-2</address>
+    <lon>129.186839</lon>
+    <lat>37.425834</lat>
+    <shel_av>80</shel_av>
+    <lenth>480</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>41</height>
+  </row>
+  <row>
+    <id>700</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>오분지구</remarks>
+    <shel_nm>오분마을회관뒤공터</shel_nm>
+    <address>강원도 삼척시 오분동 212</address>
+    <lon>129.189984</lon>
+    <lat>37.427576</lat>
+    <shel_av>90</shel_av>
+    <lenth>460</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>32</height>
+  </row>
+  <row>
+    <id>701</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>오분지구</remarks>
+    <shel_nm>오분파출소뒷편</shel_nm>
+    <address>강원도 삼척시 오분동 228-5</address>
+    <lon>129.188620</lon>
+    <lat>37.430550</lat>
+    <shel_av>80</shel_av>
+    <lenth>257</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>39</height>
+  </row>
+  <row>
+    <id>702</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>상맹방2지구</remarks>
+    <shel_nm>맹방초등학교</shel_nm>
+    <address>강원도 삼척시 근덕면 상맹방리 171-1</address>
+    <lon>129.213268</lon>
+    <lat>37.398739</lat>
+    <shel_av>200</shel_av>
+    <lenth>423</lenth>
+    <shel_div_type>학교운동장</shel_div_type>
+    <seismic></seismic>
+    <height>15</height>
+  </row>
+  <row>
+    <id>703</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>하맹방지구</remarks>
+    <shel_nm>관덕정공터</shel_nm>
+    <address>강원도 삼척시 근덕면 교가리 671-7</address>
+    <lon>129.223610</lon>
+    <lat>37.380033</lat>
+    <shel_av>300</shel_av>
+    <lenth>830</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>38</height>
+  </row>
+  <row>
+    <id>688</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>강양지구</remarks>
+    <shel_nm>만포횟집마당</shel_nm>
+    <address>울산광역시 울주군 온산읍 강양리 91-1</address>
+    <lon>129.347249</lon>
+    <lat>35.391295</lat>
+    <shel_av>50</shel_av>
+    <lenth>200</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>16</height>
+  </row>
+  <row>
+    <id>689</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>강양지구</remarks>
+    <shel_nm>야산(공터)</shel_nm>
+    <address>울산광역시 울주군 온산읍 강양리 161</address>
+    <lon>129.345329</lon>
+    <lat>35.393715</lat>
+    <shel_av>150</shel_av>
+    <lenth>210</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>9</height>
+  </row>
+  <row>
+    <id>690</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>강릉시</sigungu_name>
+    <remarks>경포지구</remarks>
+    <shel_nm>경포현대호텔</shel_nm>
+    <address>강원도 강릉시강문동 274-1</address>
+    <lon>128.915260</lon>
+    <lat>37.798070</lat>
+    <shel_av>700</shel_av>
+    <lenth>100</lenth>
+    <shel_div_type>민간건축물</shel_div_type>
+    <seismic>1등급</seismic>
+    <height>26</height>
+  </row>
+  <row>
+    <id>691</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>증산지구</remarks>
+    <shel_nm>이사부공원공터</shel_nm>
+    <address>강원도 삼척시 교동 증산동 1</address>
+    <lon>129.159032</lon>
+    <lat>37.475559</lat>
+    <shel_av>200</shel_av>
+    <lenth>344</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>32</height>
+  </row>
+  <row>
+    <id>692</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>증산지구</remarks>
+    <shel_nm>심심사앞공터</shel_nm>
+    <address>강원도 삼척시 교동 증산동 63</address>
+    <lon>129.161064</lon>
+    <lat>37.473001</lat>
+    <shel_av>50</shel_av>
+    <lenth>164</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>20</height>
+  </row>
+  <row>
+    <id>693</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>후진지구</remarks>
+    <shel_nm>삼척요양원앞공터</shel_nm>
+    <address>강원도 삼척시 교동 395</address>
+    <lon>129.174477</lon>
+    <lat>37.462101</lat>
+    <shel_av>150</shel_av>
+    <lenth>575</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>37</height>
+  </row>
+  <row>
+    <id>694</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>후진지구</remarks>
+    <shel_nm>삼척MBC앞공터</shel_nm>
+    <address>강원도 삼척시 교동 갈천동 111</address>
+    <lon>129.163119</lon>
+    <lat>37.463388</lat>
+    <shel_av>150</shel_av>
+    <lenth>261</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>30</height>
+  </row>
+  <row>
+    <id>695</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>정라지구</remarks>
+    <shel_nm>조각공원뒷산</shel_nm>
+    <address>강원도 삼척시 교동 85-5</address>
+    <lon>129.184913</lon>
+    <lat>37.456707</lat>
+    <shel_av>100</shel_av>
+    <lenth>247</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>27</height>
+  </row>
+  <row>
+    <id>696</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>정라지구</remarks>
+    <shel_nm>정라마을회관뒤공터</shel_nm>
+    <address>강원도 삼척시 정하동 28-1</address>
+    <lon>129.187489</lon>
+    <lat>37.442234</lat>
+    <shel_av>100</shel_av>
+    <lenth>548</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>76</height>
+  </row>
+  <row>
+    <id>697</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>정라지구</remarks>
+    <shel_nm>척추동해비</shel_nm>
+    <address>강원도 삼척시 정상동 82-1</address>
+    <lon>129.184482</lon>
+    <lat>37.435591</lat>
+    <shel_av>100</shel_av>
+    <lenth>508</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>34</height>
+  </row>
+  <row>
+    <id>677</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>신암지구</remarks>
+    <shel_nm>서생면사무소주차장</shel_nm>
+    <address>울산광역시 울주군 서생면 신암리 245-2</address>
+    <lon>129.326380</lon>
+    <lat>35.349927</lat>
+    <shel_av>400</shel_av>
+    <lenth>250</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>17</height>
+  </row>
+  <row>
+    <id>678</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>신암지구</remarks>
+    <shel_nm>신암회관마당</shel_nm>
+    <address>울산광역시 울주군 서생면 신암리 454</address>
+    <lon>129.323327</lon>
+    <lat>35.349226</lat>
+    <shel_av>100</shel_av>
+    <lenth>300</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>12</height>
+  </row>
+  <row>
+    <id>679</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>신암지구</remarks>
+    <shel_nm>소망교회주차장</shel_nm>
+    <address>울산광역시 울주군 서생면 신암리 324</address>
+    <lon>129.319930</lon>
+    <lat>35.345133</lat>
+    <shel_av>100</shel_av>
+    <lenth>300</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>17</height>
+  </row>
+  <row>
+    <id>680</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>대송송정지구</remarks>
+    <shel_nm>송정회관마당</shel_nm>
+    <address>울산광역시 울주군 서생면 대송리 335-6</address>
+    <lon>129.353423</lon>
+    <lat>35.366310</lat>
+    <shel_av>50</shel_av>
+    <lenth>300</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>23</height>
+  </row>
+  <row>
+    <id>681</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>대송송정지구</remarks>
+    <shel_nm>대송학생야영장운동장</shel_nm>
+    <address>울산광역시 울주군 서생면 대송리 195</address>
+    <lon>129.357535</lon>
+    <lat>35.359410</lat>
+    <shel_av>100</shel_av>
+    <lenth>350</lenth>
+    <shel_div_type>학교운동장</shel_div_type>
+    <seismic>-</seismic>
+    <height>23</height>
+  </row>
+  <row>
+    <id>682</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>평동지구</remarks>
+    <shel_nm>평동회관마당</shel_nm>
+    <address>울산광역시 울주군 서생면 대송리 77-2</address>
+    <lon>129.353348</lon>
+    <lat>35.356844</lat>
+    <shel_av>50</shel_av>
+    <lenth>210</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>12</height>
+  </row>
+  <row>
+    <id>683</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>평동지구</remarks>
+    <shel_nm>평동어촌계회관마당</shel_nm>
+    <address>울산광역시 울주군 서생면 대송리 67-2</address>
+    <lon>129.353246</lon>
+    <lat>35.356335</lat>
+    <shel_av>120</shel_av>
+    <lenth>120</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>10</height>
+  </row>
+  <row>
+    <id>684</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>진하지구</remarks>
+    <shel_nm>진하회관</shel_nm>
+    <address>울산광역시 울주군 서생면 진하리 255</address>
+    <lon>129.342526</lon>
+    <lat>35.386721</lat>
+    <shel_av>100</shel_av>
+    <lenth>580</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>6</height>
+  </row>
+  <row>
+    <id>685</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>진하지구</remarks>
+    <shel_nm>성동초등학교</shel_nm>
+    <address>울산광역시 울주군 서생면 서생리 387</address>
+    <lon>129.341763</lon>
+    <lat>35.385667</lat>
+    <shel_av>500</shel_av>
+    <lenth>520</lenth>
+    <shel_div_type>공공건축물</shel_div_type>
+    <seismic>1등급</seismic>
+    <height>9</height>
+  </row>
+  <row>
+    <id>686</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>나사지구</remarks>
+    <shel_nm>호소공원버스정류장</shel_nm>
+    <address>울산광역시 울주군 서생면 나사리 산15-6</address>
+    <lon>129.343412</lon>
+    <lat>35.356941</lat>
+    <shel_av>200</shel_av>
+    <lenth>200</lenth>
+    <shel_div_type>도로변</shel_div_type>
+    <seismic>-</seismic>
+    <height>13</height>
+  </row>
+  <row>
+    <id>687</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>나사지구</remarks>
+    <shel_nm>서생중학교운동장</shel_nm>
+    <address>울산광역시 울주군 서생면 신암리 8-1</address>
+    <lon>129.331214</lon>
+    <lat>35.350706</lat>
+    <shel_av>300</shel_av>
+    <lenth>350</lenth>
+    <shel_div_type>학교운동장</shel_div_type>
+    <seismic>-</seismic>
+    <height>15</height>
+  </row>
+  <row>
+    <id>676</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>울주군</sigungu_name>
+    <remarks>신암지구</remarks>
+    <shel_nm>서생중학교운동장</shel_nm>
+    <address>울산광역시 울주군 서생면 신암리 8-1</address>
+    <lon>129.331110</lon>
+    <lat>35.350637</lat>
+    <shel_av>300</shel_av>
+    <lenth>350</lenth>
+    <shel_div_type>학교운동장</shel_div_type>
+    <seismic>-</seismic>
+    <height>15</height>
+  </row>
+  <row>
+    <id>674</id>
+    <sido_name>울산광역시</sido_name>
+    <sigungu_name>남구</sigungu_name>
+    <remarks>장생포해안지구</remarks>
+    <shel_nm>고래문화마을 주차장</shel_nm>
+    <address>울산광역시 남구 장생포동 232</address>
+    <lon>129.379526</lon>
+    <lat>35.505382</lat>
+    <shel_av>300</shel_av>
+    <lenth>280</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>21</height>
+  </row>
+  <row>
+    <id>675</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>연지지구 2, 3</remarks>
+    <shel_nm>대동빌라</shel_nm>
+    <address>경상북도 울진군 울진읍 연지리 138-1</address>
+    <lon>129.414320</lon>
+    <lat>36.991621</lat>
+    <shel_av>180</shel_av>
+    <lenth>60</lenth>
+    <shel_div_type>도로변</shel_div_type>
+    <seismic></seismic>
+    <height>25</height>
+  </row>
+  <row>
+    <id>663</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>진복지구1</remarks>
+    <shel_nm>진복리 522번지 일대 공터</shel_nm>
+    <address>경상북도 울진군 근남면 진복리 522</address>
+    <lon>129.414516</lon>
+    <lat>36.926987</lat>
+    <shel_av>100</shel_av>
+    <lenth>325</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>19</height>
+  </row>
+  <row>
+    <id>664</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>죽변1,2지구</remarks>
+    <shel_nm>용진모텔 뒤공터</shel_nm>
+    <address>경상북도 울진군 죽변면 후정리 294</address>
+    <lon>129.417238</lon>
+    <lat>37.057798</lat>
+    <shel_av>100</shel_av>
+    <lenth>610</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>16</height>
+  </row>
+  <row>
+    <id>665</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>삼율지구</remarks>
+    <shel_nm>마을뒷산 고지대</shel_nm>
+    <address>경상북도 울진군 평해읍 거일리 산29</address>
+    <lon>129.441870</lon>
+    <lat>36.679380</lat>
+    <shel_av>400</shel_av>
+    <lenth>100</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>20</height>
+  </row>
+  <row>
+    <id>666</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>후포지구</remarks>
+    <shel_nm>등기산 주차장</shel_nm>
+    <address>경상북도 울진군 후포면 후포리 563</address>
+    <lon>129.463525</lon>
+    <lat>36.681837</lat>
+    <shel_av>800</shel_av>
+    <lenth>160</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>25</height>
+  </row>
+  <row>
+    <id>667</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>오산지구</remarks>
+    <shel_nm>오산2리 마을 뒤 남쪽 고지대</shel_nm>
+    <address>경상북도 울진군 매화면 오산리 238</address>
+    <lon>129.417633</lon>
+    <lat>36.894381</lat>
+    <shel_av>100</shel_av>
+    <lenth>340</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>43</height>
+  </row>
+  <row>
+    <id>668</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>오산지구</remarks>
+    <shel_nm>오산2리 마을 뒤 북쪽 고지대</shel_nm>
+    <address>경상북도 울진군 매화면 오산리 106-4</address>
+    <lon>129.418581</lon>
+    <lat>36.897202</lat>
+    <shel_av>100</shel_av>
+    <lenth>180</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>18</height>
+  </row>
+  <row>
+    <id>669</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>덕신지구</remarks>
+    <shel_nm>덕신감리교회뒷편</shel_nm>
+    <address>경상북도 울진군 매화면 덕신리 407-2</address>
+    <lon>129.414481</lon>
+    <lat>36.884086</lat>
+    <shel_av>250</shel_av>
+    <lenth>220</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>6</height>
+  </row>
+  <row>
+    <id>670</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>덕신지구</remarks>
+    <shel_nm>덕신리 마을 뒷산</shel_nm>
+    <address>경상북도 울진군 매화면 덕신리 476-1</address>
+    <lon>129.413244</lon>
+    <lat>36.887089</lat>
+    <shel_av>250</shel_av>
+    <lenth>230</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>11</height>
+  </row>
+  <row>
+    <id>671</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>덕신지구</remarks>
+    <shel_nm>마을 뒤 고지대 밭</shel_nm>
+    <address>경상북도 울진군 매화면 덕신리 317</address>
+    <lon>129.413243</lon>
+    <lat>36.882225</lat>
+    <shel_av>250</shel_av>
+    <lenth>670</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>11</height>
+  </row>
+  <row>
+    <id>672</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>오산지구</remarks>
+    <shel_nm>순복음교회 뒷산</shel_nm>
+    <address>경상북도 울진군 매화면 오산리 294</address>
+    <lon>129.414937</lon>
+    <lat>36.892792</lat>
+    <shel_av>150</shel_av>
+    <lenth>360</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>11</height>
+  </row>
+  <row>
+    <id>673</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울릉군</sigungu_name>
+    <remarks>통구미지구</remarks>
+    <shel_nm>통구미경로당</shel_nm>
+    <address>경상북도 울릉군 서면 남양리 180</address>
+    <lon>130.856036</lon>
+    <lat>37.462839</lat>
+    <shel_av>50</shel_av>
+    <lenth>387</lenth>
+    <shel_div_type>공공건축물</shel_div_type>
+    <seismic>미적용</seismic>
+    <height>51</height>
+  </row>
+  <row>
+    <id>660</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>노음지구</remarks>
+    <shel_nm>근남문화체육센터</shel_nm>
+    <address>경상북도 울진군 근남면 노음리 326-3</address>
+    <lon>129.395582</lon>
+    <lat>36.963613</lat>
+    <shel_av>300</shel_av>
+    <lenth>1700</lenth>
+    <shel_div_type>공공건축물</shel_div_type>
+    <seismic>미적용</seismic>
+    <height>6</height>
+  </row>
+  <row>
+    <id>661</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>진복지구2</remarks>
+    <shel_nm>진복2리 복지회관 뒤 밭</shel_nm>
+    <address>경상북도 울진군 근남면 진복리 231-2</address>
+    <lon>129.415913</lon>
+    <lat>36.918327</lat>
+    <shel_av>150</shel_av>
+    <lenth>80</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>9</height>
+  </row>
+  <row>
+    <id>662</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>진복지구1</remarks>
+    <shel_nm>진복리 651번지 일대</shel_nm>
+    <address>경상북도 울진군 근남면 진복리 651</address>
+    <lon>129.413523</lon>
+    <lat>36.929216</lat>
+    <shel_av>300</shel_av>
+    <lenth>320</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>8</height>
+  </row>
+  <row>
+    <id>650</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>나곡지구1</remarks>
+    <shel_nm>나곡리 1146-3주변</shel_nm>
+    <address>경상북도 울진군 북면 나곡리 산14-16</address>
+    <lon>129.361378</lon>
+    <lat>37.141780</lat>
+    <shel_av>100</shel_av>
+    <lenth>410</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>33</height>
+  </row>
+  <row>
+    <id>651</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>나곡지구1</remarks>
+    <shel_nm>금세골</shel_nm>
+    <address>경상북도 울진군 북면 나곡리 1134</address>
+    <lon>129.359735</lon>
+    <lat>37.143718</lat>
+    <shel_av>100</shel_av>
+    <lenth>170</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>49</height>
+  </row>
+  <row>
+    <id>652</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>수산지구</remarks>
+    <shel_nm>수산리 493번지 공터</shel_nm>
+    <address>경상북도 울진군 근남면 수산리 493</address>
+    <lon>129.397109</lon>
+    <lat>36.973011</lat>
+    <shel_av>300</shel_av>
+    <lenth>1200</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>10</height>
+  </row>
+  <row>
+    <id>653</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>수산지구</remarks>
+    <shel_nm>수산리 483-1번지 일대</shel_nm>
+    <address>경상북도 울진군 근남면 수산리 483-1</address>
+    <lon>129.397837</lon>
+    <lat>36.971833</lat>
+    <shel_av>80</shel_av>
+    <lenth>1200</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>12</height>
+  </row>
+  <row>
+    <id>654</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>산포지구5</remarks>
+    <shel_nm>산포리 92번지 일대 밭</shel_nm>
+    <address>경상북도 울진군 근남면 산포리 312</address>
+    <lon>129.415292</lon>
+    <lat>36.947544</lat>
+    <shel_av>100</shel_av>
+    <lenth>250</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>8</height>
+  </row>
+  <row>
+    <id>655</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>산포지구5</remarks>
+    <shel_nm>산포리 313번지 일대 밭</shel_nm>
+    <address>경상북도 울진군 근남면 산포리 313</address>
+    <lon>129.415170</lon>
+    <lat>36.947661</lat>
+    <shel_av>100</shel_av>
+    <lenth>250</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>20</height>
+  </row>
+  <row>
+    <id>656</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>산포지구4</remarks>
+    <shel_nm>산포리 523번지 일대 밭</shel_nm>
+    <address>경상북도 울진군 근남면 산포리 523</address>
+    <lon>129.413565</lon>
+    <lat>36.957740</lat>
+    <shel_av>150</shel_av>
+    <lenth>220</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>11</height>
+  </row>
+  <row>
+    <id>657</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>산포지구3</remarks>
+    <shel_nm>산포리 1030-4번지 일대 밭</shel_nm>
+    <address>경상북도 울진군 근남면 산포리 1030-4</address>
+    <lon>129.408709</lon>
+    <lat>36.958730</lat>
+    <shel_av>100</shel_av>
+    <lenth>630</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>14</height>
+  </row>
+  <row>
+    <id>658</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>산포지구4</remarks>
+    <shel_nm>산포리 18번지 일대 밭</shel_nm>
+    <address>경상북도 울진군 근남면 산포리 18</address>
+    <lon>129.416301</lon>
+    <lat>36.954601</lat>
+    <shel_av>150</shel_av>
+    <lenth>130</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>17</height>
+  </row>
+  <row>
+    <id>659</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>산포지구1,2</remarks>
+    <shel_nm>산포리 641-2번지 도로일대</shel_nm>
+    <address>경상북도 울진군 근남면 산포리 642</address>
+    <lon>129.412227</lon>
+    <lat>36.961896</lat>
+    <shel_av>100</shel_av>
+    <lenth>200</lenth>
+    <shel_div_type>도로변</shel_div_type>
+    <seismic>-</seismic>
+    <height>14</height>
+  </row>
+  <row>
+    <id>645</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>온양지구 1</remarks>
+    <shel_nm>온양2리 마을회관 뒷 산</shel_nm>
+    <address>경상북도 울진군 울진읍 온양리 127-2</address>
+    <lon>129.407676</lon>
+    <lat>37.027622</lat>
+    <shel_av>100</shel_av>
+    <lenth>130</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>25</height>
+  </row>
+  <row>
+    <id>646</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>부구지구1</remarks>
+    <shel_nm>용궁모텔 뒤 밭</shel_nm>
+    <address>경상북도 울진군 북면 부구리 278</address>
+    <lon>129.370835</lon>
+    <lat>37.102245</lat>
+    <shel_av>100</shel_av>
+    <lenth>520</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>24</height>
+  </row>
+  <row>
+    <id>647</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>부구지구1</remarks>
+    <shel_nm>북면사무소</shel_nm>
+    <address>경상북도 울릉군 북면 천부리 529-8</address>
+    <lon>129.372869</lon>
+    <lat>37.104879</lat>
+    <shel_av>100</shel_av>
+    <lenth>200</lenth>
+    <shel_div_type>공공건축물</shel_div_type>
+    <seismic>미적용</seismic>
+    <height>8</height>
+  </row>
+  <row>
+    <id>648</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>나곡지구3</remarks>
+    <shel_nm>한수원정문</shel_nm>
+    <address>경상북도 울진군 북면 나곡리 148-2</address>
+    <lon>129.371153</lon>
+    <lat>37.107802</lat>
+    <shel_av>560</shel_av>
+    <lenth>880</lenth>
+    <shel_div_type>민간건축물</shel_div_type>
+    <seismic>미적용</seismic>
+    <height>21</height>
+  </row>
+  <row>
+    <id>649</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>나곡지구2</remarks>
+    <shel_nm>나곡리 725-2일대 밭</shel_nm>
+    <address>경상북도 울진군 북면 나곡리 725-2</address>
+    <lon>129.369187</lon>
+    <lat>37.125345</lat>
+    <shel_av>200</shel_av>
+    <lenth>390</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>15</height>
+  </row>
+  <row>
+    <id>636</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시남구</sigungu_name>
+    <remarks>삼정지구</remarks>
+    <shel_nm>남구 구룡포읍 석병리 904-2</shel_nm>
+    <address>경상북도 포항시남구 구룡포읍 석병리 904-2</address>
+    <lon>129.576528</lon>
+    <lat>36.014763</lat>
+    <shel_av>68</shel_av>
+    <lenth>300</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>25</height>
+  </row>
+  <row>
+    <id>637</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시남구</sigungu_name>
+    <remarks>구만지구</remarks>
+    <shel_nm>남구 호미곶면 구만길 128</shel_nm>
+    <address>경상북도 포항시남구 대보면 구만리 488-3</address>
+    <lon>129.548189</lon>
+    <lat>36.084281</lat>
+    <shel_av>94</shel_av>
+    <lenth>300</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>20</height>
+  </row>
+  <row>
+    <id>638</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>영덕군</sigungu_name>
+    <remarks>대진1지구</remarks>
+    <shel_nm>대진1리 마을뒤 야산</shel_nm>
+    <address>경상북도 영덕군 영해면 대진리 401-16</address>
+    <lon>129.429326</lon>
+    <lat>36.561831</lat>
+    <shel_av>150</shel_av>
+    <lenth>230</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>30</height>
+  </row>
+  <row>
+    <id>639</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>읍남지구 2</remarks>
+    <shel_nm>읍남리 145번지일대밭</shel_nm>
+    <address>경상북도 울진군 울진읍 읍남리 152-1</address>
+    <lon>129.408393</lon>
+    <lat>36.985813</lat>
+    <shel_av>100</shel_av>
+    <lenth>210</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>23</height>
+  </row>
+  <row>
+    <id>640</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>연지지구 1</remarks>
+    <shel_nm>연지리406-1번지 일대</shel_nm>
+    <address>경상북도 울진군 울진읍 연지리 401-10</address>
+    <lon>129.409089</lon>
+    <lat>37.002240</lat>
+    <shel_av>100</shel_av>
+    <lenth>550</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>22</height>
+  </row>
+  <row>
+    <id>641</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>연지지구 1</remarks>
+    <shel_nm>연지리495-1번지 도로일대</shel_nm>
+    <address>경상북도 울진군 울진읍 연지리 495-1</address>
+    <lon>129.416483</lon>
+    <lat>37.005024</lat>
+    <shel_av>300</shel_av>
+    <lenth>240</lenth>
+    <shel_div_type>도로변</shel_div_type>
+    <seismic>-</seismic>
+    <height>26</height>
+  </row>
+  <row>
+    <id>642</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>온양지구 1</remarks>
+    <shel_nm>온양리 175번지 일대</shel_nm>
+    <address>경상북도 울진군 울진읍 온양리 175</address>
+    <lon>129.406909</lon>
+    <lat>37.025328</lat>
+    <shel_av>100</shel_av>
+    <lenth>220</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>17</height>
+  </row>
+  <row>
+    <id>643</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>온양지구 2</remarks>
+    <shel_nm>동회관 뒷 편 통로박스</shel_nm>
+    <address>경상북도 울진군 울진읍 온양리 224-27</address>
+    <lon>129.405421</lon>
+    <lat>37.018647</lat>
+    <shel_av>50</shel_av>
+    <lenth>190</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>15</height>
+  </row>
+  <row>
+    <id>644</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>울진군</sigungu_name>
+    <remarks>읍남지구 1</remarks>
+    <shel_nm>읍남리 102-1번지 마을뒤 언덕</shel_nm>
+    <address>경상북도 울진군 울진읍 읍남리 102-1</address>
+    <lon>129.405716</lon>
+    <lat>36.980846</lat>
+    <shel_av>100</shel_av>
+    <lenth>340</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>9</height>
+  </row>
+  <row>
+    <id>630</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>신남지구</remarks>
+    <shel_nm>돌기해삼배양장</shel_nm>
+    <address>강원도 삼척시 원덕읍 갈남리 456-1</address>
+    <lon>129.323466</lon>
+    <lat>37.265899</lat>
+    <shel_av>100</shel_av>
+    <lenth>321</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>21</height>
+  </row>
+  <row>
+    <id>631</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>용화지구</remarks>
+    <shel_nm>해상로프웨이</shel_nm>
+    <address>강원도 삼척시 근덕면 용화리 6</address>
+    <lon>129.308218</lon>
+    <lat>37.289124</lat>
+    <shel_av>200</shel_av>
+    <lenth>150</lenth>
+    <shel_div_type>공공건축물</shel_div_type>
+    <seismic>1등급</seismic>
+    <height>30</height>
+  </row>
+  <row>
+    <id>632</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>상맹방1지구</remarks>
+    <shel_nm>국도굴다리옆공터</shel_nm>
+    <address>강원도 삼척시 근덕면 상맹방리 229-4</address>
+    <lon>129.204345</lon>
+    <lat>37.404599</lat>
+    <shel_av>100</shel_av>
+    <lenth>250</lenth>
+    <shel_div_type>도로변</shel_div_type>
+    <seismic>-</seismic>
+    <height>13</height>
+  </row>
+  <row>
+    <id>633</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>하맹방지구</remarks>
+    <shel_nm>삼림욕장공터</shel_nm>
+    <address>강원도 삼척시 근덕면 하맹방리 221-7</address>
+    <lon>129.227908</lon>
+    <lat>37.392228</lat>
+    <shel_av>300</shel_av>
+    <lenth>100</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>15</height>
+  </row>
+  <row>
+    <id>634</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>후진지구</remarks>
+    <shel_nm>쏠비치주자창</shel_nm>
+    <address>강원도 삼척시 갈천동 225</address>
+    <lon>129.164759</lon>
+    <lat>37.472401</lat>
+    <shel_av>200</shel_av>
+    <lenth>580</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic></seismic>
+    <height>40</height>
+  </row>
+  <row>
+    <id>635</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>양양군</sigungu_name>
+    <remarks>낙산지구</remarks>
+    <shel_nm>전진리야산</shel_nm>
+    <address>강원도 양양군 강현면 산8-2</address>
+    <lon>128.632258</lon>
+    <lat>38.119881</lat>
+    <shel_av>500</shel_av>
+    <lenth>150</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>30</height>
+  </row>
+  <row>
+    <id>622</id>
+    <sido_name>부산광역시</sido_name>
+    <sigungu_name>기장군</sigungu_name>
+    <remarks>대변지구</remarks>
+    <shel_nm>대항교회</shel_nm>
+    <address>부산광역시 기장군 기장읍 대변리 149</address>
+    <lon>129.228534</lon>
+    <lat>35.226170</lat>
+    <shel_av>300</shel_av>
+    <lenth>350</lenth>
+    <shel_div_type>민간건축물</shel_div_type>
+    <seismic>미적용</seismic>
+    <height>11</height>
+  </row>
+  <row>
+    <id>623</id>
+    <sido_name>부산광역시</sido_name>
+    <sigungu_name>기장군</sigungu_name>
+    <remarks>동암지구</remarks>
+    <shel_nm>힐튼호텔 앞 도로</shel_nm>
+    <address>부산광역시 기장군 기장읍 시랑리 704</address>
+    <lon>129.133168</lon>
+    <lat>35.115085</lat>
+    <shel_av>500</shel_av>
+    <lenth>300</lenth>
+    <shel_div_type>도로변</shel_div_type>
+    <seismic>-</seismic>
+    <height>21</height>
+  </row>
+  <row>
+    <id>625</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>동해시</sigungu_name>
+    <remarks>추암지구</remarks>
+    <shel_nm>할미바위 옆 쉼터</shel_nm>
+    <address>강원도 동해시 구미동 산5-1</address>
+    <lon>129.145446</lon>
+    <lat>37.490779</lat>
+    <shel_av>200</shel_av>
+    <lenth>400</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>15</height>
+  </row>
+  <row>
+    <id>626</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>동해시</sigungu_name>
+    <remarks>추암지구</remarks>
+    <shel_nm>하수종말처리장</shel_nm>
+    <address>강원도 동해시 구미동 산5-9</address>
+    <lon>129.143402</lon>
+    <lat>37.490505</lat>
+    <shel_av>100</shel_av>
+    <lenth>500</lenth>
+    <shel_div_type>도로변</shel_div_type>
+    <seismic>-</seismic>
+    <height>31</height>
+  </row>
+  <row>
+    <id>627</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>동해시</sigungu_name>
+    <remarks>추암지구</remarks>
+    <shel_nm>추암택지</shel_nm>
+    <address>강원도 동해시 추암동 24-2</address>
+    <lon>129.156067</lon>
+    <lat>37.475812</lat>
+    <shel_av>500</shel_av>
+    <lenth>500</lenth>
+    <shel_div_type>도로변</shel_div_type>
+    <seismic>-</seismic>
+    <height>35</height>
+  </row>
+  <row>
+    <id>628</id>
+    <sido_name>강원도</sido_name>
+    <sigungu_name>삼척시</sigungu_name>
+    <remarks>호산지구</remarks>
+    <shel_nm>호산항뒷산공터</shel_nm>
+    <address>강원도 삼척시 원덕읍 호산리 309</address>
+    <lon>129.341531</lon>
+    <lat>37.174803</lat>
+    <shel_av>250</shel_av>
+    <lenth>350</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>26</height>
+  </row>
+  <row>
+    <id>615</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>환여지구</remarks>
+    <shel_nm>포항해양과학고 앞</shel_nm>
+    <address>경상북도 포항시북구 환호동 2-8</address>
+    <lon>129.406266</lon>
+    <lat>36.073914</lat>
+    <shel_av>400</shel_av>
+    <lenth>500</lenth>
+    <shel_div_type>학교운동장</shel_div_type>
+    <seismic>-</seismic>
+    <height>22</height>
+  </row>
+  <row>
+    <id>616</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>환여지구</remarks>
+    <shel_nm>환호 여중 앞</shel_nm>
+    <address>경상북도 포항시북구 환호동 69</address>
+    <lon>129.400413</lon>
+    <lat>36.071233</lat>
+    <shel_av>500</shel_av>
+    <lenth>800</lenth>
+    <shel_div_type>학교운동장</shel_div_type>
+    <seismic>-</seismic>
+    <height>16</height>
+  </row>
+  <row>
+    <id>617</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>환여지구</remarks>
+    <shel_nm>환호동해맞이공원</shel_nm>
+    <address>경상북도 포항시북구 환호동 323-3</address>
+    <lon>129.395057</lon>
+    <lat>36.068093</lat>
+    <shel_av>11500</shel_av>
+    <lenth>500</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>17</height>
+  </row>
+  <row>
+    <id>618</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시남구</sigungu_name>
+    <remarks>흥환지구</remarks>
+    <shel_nm>마산리 버스승강장 앞 공터</shel_nm>
+    <address>경상북도 포항시남구 동해면 마산리 247-2</address>
+    <lon>129.486890</lon>
+    <lat>36.015477</lat>
+    <shel_av>20</shel_av>
+    <lenth>200</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>32</height>
+  </row>
+  <row>
+    <id>619</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시남구</sigungu_name>
+    <remarks>흥환지구</remarks>
+    <shel_nm>마산리 마을 뒤 공터</shel_nm>
+    <address>경상북도 포항시남구 동해면 마산리 69-1</address>
+    <lon>129.489447</lon>
+    <lat>36.015485</lat>
+    <shel_av>20</shel_av>
+    <lenth>320</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>21</height>
+  </row>
+  <row>
+    <id>620</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시남구</sigungu_name>
+    <remarks>흥환지구</remarks>
+    <shel_nm>흥환주유소 옆 공터</shel_nm>
+    <address>경상북도 포항시남구 동해면 흥환리 442-4</address>
+    <lon>129.506846</lon>
+    <lat>36.024413</lat>
+    <shel_av>20</shel_av>
+    <lenth>575</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>26</height>
+  </row>
+  <row>
+    <id>621</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시남구</sigungu_name>
+    <remarks>흥환지구</remarks>
+    <shel_nm>흥환리 마을회관 뒷산</shel_nm>
+    <address>경상북도 포항시남구 동해면 흥환리 320</address>
+    <lon>129.503968</lon>
+    <lat>36.026099</lat>
+    <shel_av>12</shel_av>
+    <lenth>100</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>16</height>
+  </row>
+  <row>
+    <id>611</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시남구</sigungu_name>
+    <remarks>호미곶지구</remarks>
+    <shel_nm>대보초등학교 앞</shel_nm>
+    <address>경상북도 포항시남구 호미곶면 구만리 123</address>
+    <lon>129.557246</lon>
+    <lat>36.078595</lat>
+    <shel_av>103</shel_av>
+    <lenth>500</lenth>
+    <shel_div_type>학교운동장</shel_div_type>
+    <seismic>-</seismic>
+    <height>12</height>
+  </row>
+  <row>
+    <id>612</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>화진지구</remarks>
+    <shel_nm>화진1리 버스정류장 옆</shel_nm>
+    <address>경상북도 포항시북구 송라면 화진리 261-1</address>
+    <lon>129.382442</lon>
+    <lat>36.236767</lat>
+    <shel_av>60</shel_av>
+    <lenth>900</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>25</height>
+  </row>
+  <row>
+    <id>613</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>화진지구</remarks>
+    <shel_nm>화진2리 비취모텔 앞</shel_nm>
+    <address>경상북도 포항시북구 송라면 화진리 185-3</address>
+    <lon>129.381601</lon>
+    <lat>36.239719</lat>
+    <shel_av>358</shel_av>
+    <lenth>300</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>23</height>
+  </row>
+  <row>
+    <id>614</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>환여지구</remarks>
+    <shel_nm>해안로511번길</shel_nm>
+    <address>경상북도 포항시북구 여남동 97</address>
+    <lon>129.413107</lon>
+    <lat>36.073636</lat>
+    <shel_av>403</shel_av>
+    <lenth>250</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>30</height>
+  </row>
+  <row>
+    <id>610</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시남구</sigungu_name>
+    <remarks>호미곶지구</remarks>
+    <shel_nm>대천수산 입구</shel_nm>
+    <address>경상북도 포항시남구 대보면 대보리 15-9</address>
+    <lon>129.570195</lon>
+    <lat>36.065226</lat>
+    <shel_av>30</shel_av>
+    <lenth>250</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>17</height>
+  </row>
+  <row>
+    <id>600</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>청진지구</remarks>
+    <shel_nm>청진1리 GS주유소 앞</shel_nm>
+    <address>경상북도 포항시북구 청하면 청진리 78</address>
+    <lon>129.390402</lon>
+    <lat>36.179154</lat>
+    <shel_av>50</shel_av>
+    <lenth>250</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>32</height>
+  </row>
+  <row>
+    <id>601</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>청진지구</remarks>
+    <shel_nm>스타팜펜션 앞 공터</shel_nm>
+    <address>경상북도 포항시북구 청하면 청진리 413</address>
+    <lon>129.396365</lon>
+    <lat>36.170667</lat>
+    <shel_av>50</shel_av>
+    <lenth>100</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>18</height>
+  </row>
+  <row>
+    <id>602</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>청진지구</remarks>
+    <shel_nm>선정마을입구 앞</shel_nm>
+    <address>경상북도 포항시북구 청하면 청진리 309</address>
+    <lon>129.392877</lon>
+    <lat>36.174767</lat>
+    <shel_av>50</shel_av>
+    <lenth>450</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>23</height>
+  </row>
+  <row>
+    <id>603</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>칠포1지구</remarks>
+    <shel_nm>칠포1리 고지대</shel_nm>
+    <address>경상북도 포항시북구 흥해읍 칠포리 54-4</address>
+    <lon>129.396857</lon>
+    <lat>36.145546</lat>
+    <shel_av>243</shel_av>
+    <lenth>200</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>18</height>
+  </row>
+  <row>
+    <id>604</id>
+    <sido_name>경상북도</sido_name>
+    <sigungu_name>포항시북구</sigungu_name>
+    <remarks>칠포2지구</remarks>
+    <shel_nm>칠포2주유소 앞 공터</shel_nm>
+    <address>경상북도 포항시북구 흥해읍 칠포리 265-1</address>
+    <lon>129.392479</lon>
+    <lat>36.140917</lat>
+    <shel_av>34</shel_av>
+    <lenth>200</lenth>
+    <shel_div_type>공터</shel_div_type>
+    <seismic>-</seismic>
+    <height>18</height>
+  </row>
+</TsunamiShelter>
+
