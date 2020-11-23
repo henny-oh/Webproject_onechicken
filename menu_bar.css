@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+#under { 
+    font-size: 30px;
+    text-align: center; 
+    color: #000;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    
+}
+#topMenu{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+#topMenu a{
+    margin-left: 80x;
+    margin-right: 80px;
+    font-size:  16px;
+    text-decoration: none;
+    color:gray;
+    background-color: rgba(240, 248, 255, 0.678);
+}
+.footer {
+    /* position: relative; */
+    border-top: 1px solid #d3d5d5;
+    text-align: center;
+    height: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+  }
+
+  #footer-hr{
+    /* margin:auto; */
+    margin-top: auto;
+    
+  }
+  

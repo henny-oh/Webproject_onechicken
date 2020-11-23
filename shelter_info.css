@@ -1,0 +1,28 @@
+@charset "utf-8";
+#training-info{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.shelter-map{
+    width: 225px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.dropdown{
+    text-align: center;
+    float: inline-start;
+    margin-left: auto;
+    margin-right: auto;
+}
+.maininfo{
+    width: 225px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.clearfix{
+    clear: both;
+}

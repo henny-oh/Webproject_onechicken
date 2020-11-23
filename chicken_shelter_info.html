@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+        <title>지진 알리미</title>
+        <link rel = "stylesheet" href="menu_bar.css">
+        <link rel = "stylesheet" href="shelter_info.css">
+    </head>
+
+    <style>
+        hr{
+            margin: 5px auto;
+        }
+        
+    
+	</style>
+<body>
+    <div class="mainhome">
+        <h1 id = under>지진알리미 </h1>
+        <hr width="100" size="3" text-align="center" noshade/> 
+    </div>
+    
+    <div id="topMenu" >
+                    <a href="chicken_location_info.html">지진 위치 정보 검색</a>
+                    <a href="chicken_recent_location.html">최근 지진 발생지역</a>
+                    <a href="chicken_shelter_info.html"><b>지진 대피 요령 및 훈련 정보</b></a>
+                    <hr id = "undermenu" width="1000" size="3" color="palevioletred" text-align="center" noshade/> 
+    </div>
+
+    <div>
+        <h1 id=training-info>지진대피요령</h1>
+        <!-- 지도 띄우기 -->    
+        <div class="shelter-map">
+            <div style="border:1px solid; height: 300px; width: 350;">지도 넣기</div>
+        </div>
+            <div class = "maininfo">        
+                <div class ="dropdown">
+                    <select name="jido_dropdown">
+                        <optgroup label="진도선택" name="진도 선택">
+                            <option value="진도0-2">진도0-2</option>
+                            <option value="진도3">진도3</option>
+                            <option value="진도4">진도4</option>
+                            <option value="진도5">진도5</option>
+                            <option value="진도6">진도6</option>
+                            <option value="진도7">진도7</option>
+                            <option value="진도8">진도8</option>
+                            <option value="진도9">진도9</option>
+                        </optgroup>
+                    </select>
+
+                <div class = "info">
+                    <div style="border:1px solid; height: 250px;">대피요령 넣기</div>
+                </div>
+            </div>   
+            <div class="footer">
+                <p>문의 이메일<br>info@ssu.com</p>
+                Copyright @ 본 홈페이지에 대한 모든 권리는 닭한마리 팀에게 귀속됩니다.
+                <hr size = "5">
+            </div>
+            </div>
+    </div>
+</body>
+</html>
