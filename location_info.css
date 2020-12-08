@@ -1,0 +1,23 @@
+@charset "utf-8";
+#map{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border:1px solid; 
+    padding: 160px;
+    margin: auto;
+    max-width: 750px;
+    text-align: center;
+    width: 500px;
+    font-size: 10px;
+}
+
+#maptitle{
+    text-align: center;
+}
+
+.clearfix{
+    clear: both;
+}
+#info{
+  text-align:left;
+}
