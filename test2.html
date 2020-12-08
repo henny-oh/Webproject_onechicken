@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>대피소</title>
+    
+</head>
+<body>
+<div id="map" style="width:100%;height:350px;"></div>
+
+<script type="text/javascript" src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=8bcd75a11f477d393c28161306464ea5&libraries=services,clusterer130"></script>
+<script>
+   var xhr = new XMLHttpRequest();
+  var url = 'http://apis.data.go.kr/1741000/TsunamiShelter2/getTsunamiShelterList'; /*URL*/
+  var queryParams = '?' + encodeURIComponent('ServiceKey') + '='+'vRdNCrOYX6rfA%2BeHogF7dy%2Bd9TH6V%2BVkmm%2FizGsSyfd3gTi4EzgPdLqpy2O3gxLWdCEN%2FdHbqJBnxNp0rHLkLg%3D%3D'; /*Service Key*/
+  queryParams += '&' + encodeURIComponent('pageNo') + '=' + encodeURIComponent('30'); /**/
+  queryParams += '&' + encodeURIComponent('numOfRows') + '=' + encodeURIComponent('20'); /**/
+  queryParams += '&' + encodeURIComponent('type') + '=' + encodeURIComponent('json'); /**/
+  queryParams += '&' + encodeURIComponent('flag') + '=' + encodeURIComponent('Y'); /**/
+  xhr.open('GET', url + queryParams);
+  
+  var  arrayList;
+  var list;
+  xhr.onreadystatechange = function () {
+      if (this.readyState == 4) {
+          
+           arrayList = this.responseText;
+          
+      }
+    
+      var obj=JSON.parse(arrayList);
+      console.log(obj);
+      //console.log(typeof(obj));
+      console.log(obj.TsunamiShelter[1].row[0]);
+      console.log(obj.TsunamiShelter[1].row[0].shel_nm);
+      console.log(obj.TsunamiShelter[1].row[0].address);
+  
+      
+      var add = new Array();
+      var newadd = new Array();
+      var name= new Array();
+      var newname= new Array();
+      for (var i = 0; i < 10; i++) { 
+        add[i]+=obj.TsunamiShelter[1].row[i].address;
+        name[i]+=obj.TsunamiShelter[1].row[i].shel_nm;
+        newadd[i]=add[i].substring(9,);
+        newname[i]=name[i].substring(9,);
+        //console.log(newadd[i]);
+        //console.log(newname[i]);
+    }
+    var mapContainer = document.getElementById('map'), // 지도를 표시할 div  
+    mapOption = { 
+        center: new kakao.maps.LatLng(33.450701, 126.570667), // 지도의 중심좌표
+        level: 3 // 지도의 확대 레벨
+    };
+// HTML5의 geolocation으로 사용할 수 있는지 확인합니다 
+if (navigator.geolocation) {
+    
+    // GeoLocation을 이용해서 접속 위치를 얻어옵니다
+    navigator.geolocation.getCurrentPosition(function(position) {
+        
+        var lat = position.coords.latitude, // 위도
+            lon = position.coords.longitude; // 경도
+        
+        var locPosition = new kakao.maps.LatLng(lat, lon), // 마커가 표시될 위치를 geolocation으로 얻어온 좌표로 생성합니다
+            message = '<div style="padding:5px;">여기에 계신가요?!</div>'; // 인포윈도우에 표시될 내용입니다
+        
+        // 마커와 인포윈도우를 표시합니다
+        displayMarker(locPosition, message);
+            
+      });
+    
+} else { // HTML5의 GeoLocation을 사용할 수 없을때 마커 표시 위치와 인포윈도우 내용을 설정합니다
+    
+    var locPosition = new kakao.maps.LatLng(33.450701, 126.570667),    
+        message = 'geolocation을 사용할수 없어요..'
+        
+    displayMarker(locPosition, message);
+}
+
+// 지도에 마커와 인포윈도우를 표시하는 함수입니다
+function displayMarker(locPosition, message) {
+
+    // 마커를 생성합니다
+    var marker = new kakao.maps.Marker({  
+        map: map, 
+        position: locPosition
+    }); 
+    
+    var iwContent = message, // 인포윈도우에 표시할 내용
+        iwRemoveable = true;
+
+    // 인포윈도우를 생성합니다
+    var infowindow = new kakao.maps.InfoWindow({
+        content : iwContent,
+        removable : iwRemoveable
+    });
+    
+    // 인포윈도우를 마커위에 표시합니다 
+    infowindow.open(map, marker);
+    
+    // 지도 중심좌표를 접속위치로 변경합니다
+    map.setCenter(locPosition);      
+}    
+var map = new kakao.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
+ //
+// 마커를 표시할 위치와 title 객체 배열입니다 
+var positions = [
+    {
+        title: '서울특별시 강남구 논현2동 봉은사로43길 56', 
+        latlng: new kakao.maps.LatLng(37.512840, 127.039428)
+    },
+    {
+        title: '서울특별시 천호동 6 우성', 
+        latlng: new kakao.maps.LatLng(37.548017, 127.139105)
+    },
+    {
+        title: '서울특별시 강동구 암사동 암사5길', 
+        latlng: new kakao.maps.LatLng(37.552397, 127.132324)
+    },
+    {
+        title: '서울특별시 강동구 천호1동 219-12',
+        latlng: new kakao.maps.LatLng(37.544868, 127.135427)
+    },
+    {
+        title: '서울특별시 송파구 강동대로',
+        latlng: new kakao.maps.LatLng(37.524159579789156, 127.12407434561463)
+    }
+    //이곳에 더 추가 가능
+];
+console.log(positions.length);
+console.log(newname.length);
+
+// 마커 이미지의 이미지 주소입니다
+var imageSrc = "https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/markerStar.png"; 
+   
+  console.log(newadd[2]);
+  var geocoder = new kakao.maps.services.Geocoder();
+for (var i = 0; i < newname.length; i ++) {
+  console.log(newname[i]);
+  geocoder.addressSearch(newadd[i], function(result, status) {
+
+// 정상적으로 검색이 완료됐으면 
+ if (status === kakao.maps.services.Status.OK) {
+
+    var coords = new kakao.maps.LatLng(result[0].y, result[0].x);
+    
+    // 결과값으로 받은 위치를 마커로 표시합니다
+    var marker = new kakao.maps.Marker({
+        map: map,
+        title : newname[i],
+        position: coords,
+        
+    });
+
+    // 인포윈도우로 장소에 대한 설명을 표시합니다
+   /* var infowindow = new kakao.maps.InfoWindow({
+        content: newname[i]
+        //'<div style="width:150px;text-align:center;padding:6px 0;">우리회사</div>'
+    });*/
+    //infowindow.open(map, marker);
+
+    // 지도의 중심을 결과값으로 받은 위치로 이동시킵니다
+    map.setCenter(coords);
+} 
+});    
+    
+}
+
+} 
+  
+  
+  xhr.send('');
+
+</script>
+</body>
+</html>
